@@ -58,7 +58,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mukesh45m&show_icons=true&theme=tokyonight" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh45m&theme=tokyonight" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=mukesh45m&theme=tokyonight" height="180em"/>
 
 </p>
 
